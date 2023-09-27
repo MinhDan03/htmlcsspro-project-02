@@ -5,6 +5,11 @@
     --primary-color: #ffb900;
     --font-heading: Sen, sans-serif;
 }
+.test-domain {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
 html {
     font-size: 62.5%;
 }
@@ -632,7 +637,7 @@ a {
 .footer .copyright {
     padding: 28px 0;
 }
-.footer .copyright p{
+.footer .copyright p {
     font-size: 1.4rem;
     line-height: 1.86;
     text-align: center;
